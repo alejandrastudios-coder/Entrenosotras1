@@ -1,6 +1,6 @@
 {
   "name": "Entre Nosotras",
-  "description": "Página de la comunidad de emprendedoras locales donde puedes conocer sus proyectos, productos, filtrar por rubros y chatear directamente.",
+  "description": "Plataforma oficial de la comunidad de emprendedoras Entre Nosotras. Directorio de emprendimientos, ofertas relámpago, revista digital de blog y guía de recursos comunitarios.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
